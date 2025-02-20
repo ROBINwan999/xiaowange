@@ -15,9 +15,9 @@
 ## 开源项目
 | 🎁 项目 |
 | ---- |
-<a href="https://github.com/ROBINwan999/MyWebServer">数据结构与算法实践库</a>
-<a href="https://github.com/ROBINwan999/AllPurposeProjects">本科编程实践项目库</a>
-<a href="https://github.com/ROBINwan999/DsAndAlgo">小型 HTTP 服务器</a>
+<a href="https://gitee.com/robinwan888/data_and_algo">数据结构与算法实践库</a>
+<a href="https://gitee.com/robinwan888/all_purpose_project">本科编程实践项目库</a>
+<a href="https://gitee.com/robinwan888/my_web_server">小型 HTTP 服务器</a>
 
 ## 我发布的一些文章
 - <a href="https://www.cnblogs.com/xiaowange/p/17106961.html">深入理解 C++ 右值引用和移动语义：全面解析</a>
