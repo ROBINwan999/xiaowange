@@ -5,21 +5,11 @@
 <p> 我是小万哥，来自中国，喜欢写代码，喜欢分享技术知识，努力成为一名优秀的软件开发者。 </p>
 
 ## 我使用的开发工具
+
 <p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,github,idea,linux,markdown,python,bash,ubuntu,vim,vscode,java,gitlab&perline=5" />
+  </a>
 </p>
 
 ## 开源项目
