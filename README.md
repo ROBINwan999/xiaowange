@@ -38,4 +38,10 @@
 - 更多文章：<a href="https://www.cnblogs.com/xiaowange">《我的个人博客》</a>
 
 ## GitHub 数据展示
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBINwan999&show_icons=true&theme=ambient_gradient)
+
+## 如果访问不方便的话
+
+- <a href="https://gitee.com/robinwan888/xiaowange#https://gitee.com/link?target=https%3A%2F%2Fwww.cnblogs.com%2Fxiaowange">Gitee 镜像</a>
+- <a href="https://github.com/ROBINwan999/xiaowange">Github 镜像</a>
