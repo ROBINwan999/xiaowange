@@ -13,26 +13,24 @@
 </p>
 
 ## 开源项目
-| 🎁 项目 |
-| ---- |
-<a href="https://gitee.com/robinwan888/data_and_algo">数据结构与算法实践库</a>
-<a href="https://gitee.com/robinwan888/all_purpose_project">本科编程实践项目库</a>
-<a href="https://gitee.com/robinwan888/my_web_server">小型 HTTP 服务器</a>
+✨ **精选项目**
+- 🎯 [数据结构与算法实践库](https://gitee.com/robinwan888/data_and_algo) - 常用数据结构与算法实现
+- 🚀 [本科编程实践项目库](https://gitee.com/robinwan888/all_purpose_project) - 学习期间完整项目集合
+- 🌐 [小型 HTTP 服务器](https://gitee.com/robinwan888/my_web_server) - 基于C++的轻量级服务器实现
 
-## 我发布的一些文章
-- <a href="https://www.cnblogs.com/xiaowange/p/17106961.html">深入理解 C++ 右值引用和移动语义：全面解析</a>
-- <a href="https://www.cnblogs.com/xiaowange/p/17114319.html">掌握 C++ 中 static 关键字的多种使用场景</a>
-- <a href="https://www.cnblogs.com/xiaowange/p/17151338.html">C++ 中 const 和 constexpr 关键字解析：常量、函数和指针</a>
-- <a href="https://www.cnblogs.com/xiaowange/p/17396177.html">C++ 编译器和链接器的完全指南</a>
-- <a href="https://www.cnblogs.com/xiaowange/p/17246083.html">C++ 编程必备：对象生命周期管理的最佳实践</a>
-- 更多文章：<a href="https://www.cnblogs.com/xiaowange">《我的个人博客》</a>
+## 技术文章
+📚 **C++精选**
+- [深入理解 C++ 右值引用和移动语义](https://www.cnblogs.com/xiaowange/p/17106961.html) 🔥 热门文章
+- [C++ static 关键字全解析](https://www.cnblogs.com/xiaowange/p/17114319.html)
+- [const vs constexpr 深度对比](https://www.cnblogs.com/xiaowange/p/17151338.html)
+- [C++ 编译链接完全指南](https://www.cnblogs.com/xiaowange/p/17396177.html)
+- [对象生命周期管理实践](https://www.cnblogs.com/xiaowange/p/17246083.html)
+
+🔍 [更多文章...](https://www.cnblogs.com/xiaowange)
+
 
 
 ## 如果访问不方便的话
 
 - <a href="https://gitee.com/robinwan888/xiaowange#https://gitee.com/link?target=https%3A%2F%2Fwww.cnblogs.com%2Fxiaowange">Gitee 镜像</a>
 - <a href="https://github.com/ROBINwan999/xiaowange">GitHub 镜像</a>
-
-## GitHub 数据展示
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBINwan999&show_icons=true&theme=ambient_gradient)
